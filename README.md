@@ -74,3 +74,9 @@ The above command will execute the project using DBLP Dataset and KL Divergence 
 An alternative to running the project on the command line is the ipynb notebook.
 * For the Census Dataset: This is present in `SeeDb/src/Results_Census.ipynb`
 * For the DBLP Dataset: This is present in `SeeDb/src/Results_Dblp.ipynb`
+
+
+# Collaborators 
+1. Neha Prakash
+2. Chirag Uday Kamath
+3. Divya Maiya
