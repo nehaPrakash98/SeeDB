@@ -76,7 +76,7 @@ An alternative to running the project on the command line is the ipynb notebook.
 * For the DBLP Dataset: This is present in `SeeDb/src/Results_Dblp.ipynb`
 
 
-# Collaborators 
+## Collaborators 
 1. Neha Prakash
 2. Chirag Uday Kamath
 3. Divya Maiya
